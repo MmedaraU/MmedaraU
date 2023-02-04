@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @MmedaraU
 - 👀 I’m interested in front-end web development. 
 - 🌱 I’m currently learning HTML, CSS and JavaScript. I am also a student of Chemical Engineering in the University. 
-- 💞️ I’m looking to collaborate on ...
+- 💞️ I’m looking to collaborate on Open-Source projects
 - 📫 You can reach me at umana.mmedara@gmail.com. 
 - 🕳️ I also write poems and the occasional article. 
 <!---
